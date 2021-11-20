@@ -1,0 +1,40 @@
+newmtl cgaxis_models_115_37_obj_cgaxis_models_115_37_05
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_115_37_04.jpg
+bump  -bm 0 cgaxis_models_115_37_04_bump.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl cgaxis_models_115_37_obj_cgaxis_models_115_37_07
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_115_37_02.jpg
+bump  -bm 0 cgaxis_models_115_37_02_bump.jpg
+Ni 1.01
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl cgaxis_models_115_37_obj_cgaxis_models_115_37_09
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_115_37_01.jpg
+bump  -bm 0 cgaxis_models_115_37_01_bump.jpg
+Ni 1.01
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl cgaxis_models_115_37_obj_cgaxis_models_115_37_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cgaxis_models_115_37_03.jpg
+bump  -bm 0 cgaxis_models_115_37_03_bump.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
