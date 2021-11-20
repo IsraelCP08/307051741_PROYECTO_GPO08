@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (p6.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Main.cpp
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(230,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(438,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(448,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(528,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(538,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(539,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(550,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(560,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(561,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(571,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(635,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(636,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(640,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(641,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(643,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\proyecto\Proyecto\Proyecto\Main.cpp(644,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Proyecto.vcxproj -> D:\compus graficas\proyecto\Proyecto\Debug\Proyecto.exe
