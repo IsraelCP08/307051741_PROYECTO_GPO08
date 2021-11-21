@@ -1,0 +1,28 @@
+﻿  307051741_PROYECTOLA_GRUPO08.cpp
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(231,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(439,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(449,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(529,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(539,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(540,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(551,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(561,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(562,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(572,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(636,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(637,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(641,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(642,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(644,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLAB_GRUPO08\307051741_PROYECTOLA_GRUPO08.cpp(645,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 620 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  307051741_PROYECTOLAB_GRUPO08.vcxproj -> D:\compus graficas\307051741_PROYECTOLAB_GRUPO08\Release\307051741_PROYECTOLAB_GRUPO08.exe
